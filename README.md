@@ -63,12 +63,6 @@ jarvis_ai_assistant/
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your GUI or terminal interface here for better visual appeal.*
-
----
-
 ## 🙌 Contributing
 
 Contributions, issues, and feature requests are welcome!  
