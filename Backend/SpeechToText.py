@@ -65,7 +65,7 @@ TempDirPath = rf"{current_dir}/Frontend/Files"
 edge_options = EdgeOptions()
 edge_options.add_argument("--use-fake-ui-for-media-stream")
 edge_options.add_argument("--use-fake-device-for-media-stream")
-#edge_options.add_argument("--headless")  # Optional: run headless
+edge_options.add_argument("--headless")  # Optional: run headless
 edge_options.add_argument("--disable-gpu")
 edge_options.add_argument("--no-sandbox")
 edge_options.add_argument("--disable-dev-shm-usage")
